@@ -78,15 +78,15 @@ The algorithm was timed on 10 samples, with string lengths ranging from 25 to 20
 | test1  | 25     | 25     | 625    | 0.000142  |
 | test2  | 30     | 29     | 870    | 0.000198  |
 | test3  | 32     | 30     | 960    | 0.000218  |
-| test4  | 53     | 53     | 2,809  | 0.000847  |
+| test4  | 53     | 53     | 2809  | 0.000847  |
 | test5  | 55     | 53     | 2,915  | 0.000803  |
-| test6  | 53     | 53     | 2,809  | 0.000775  |
-| test7  | 75     | 75     | 5,625  | 0.001286  |
-| test8  | 160    | 155    | 24,800 | 0.005583  |
-| test9  | 90     | 90     | 8,100  | 0.002314  |
-| test10 | 177    | 203    | 35,931 | 0.008554  |
+| test6  | 53     | 53     | 2809  | 0.000775  |
+| test7  | 75     | 75     | 5625  | 0.001286  |
+| test8  | 160    | 155    | 24800 | 0.005583  |
+| test9  | 90     | 90     | 8100  | 0.002314  |
+| test10 | 177    | 203    | 35931 | 0.008554  |
 
-As m x n increases from 625 to 35,931 (~57.5x), runtime increases from 0.000142s to 0.008554s (~60x). This is consistent with O(mxn) behavior: the algorithm fills one cell per loop iteration across the full mxn table.
+As m x n increases from 625 to 35931 (~57.5x), runtime increases from 0.000142s to 0.008554s (~60x). This is consistent with O(mxn) behavior: the algorithm fills one cell per loop iteration across the full mxn table.
 
 To re-create the graph:
 ```bash
@@ -95,7 +95,7 @@ python graph.py
 
 ![Runtime Graph](graph.png)
 
----
+
 
 ## Question 2: Recurrence
 
@@ -119,7 +119,6 @@ Consider any optimal common subsequence of A[1..i] and B[1..j]. There are three 
 
 The recurrence takes the maximum across applicable cases, so it captures all possibilities. The base cases handles empty strings, where the value is 0.
 
----
 
 ## Question 3: Algorithm and Runtime
 
