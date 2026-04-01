@@ -1,0 +1,10 @@
+7
+p 1
+q 2
+r 3
+s 4
+t 5
+u 6
+e 0
+ppppppppppqqqqqqqqqqrrrrrrrrrrppppppppppqqqqqqqqqqrrrrr
+qqqqqqrrrrrrsssssssttttttttttqqqqqqrrrrrrsssssssttttt

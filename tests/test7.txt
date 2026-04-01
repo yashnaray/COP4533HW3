@@ -1,0 +1,8 @@
+5
+a 100
+b 50
+c 25
+d 10
+s 1
+abcabcabcabcabcabcabcabcabcababcabcabcabcabcabcabcabcabcababcabcabcabcabcab
+cbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacbacba

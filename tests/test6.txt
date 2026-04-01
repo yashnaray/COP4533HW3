@@ -1,0 +1,10 @@
+7
+m 5
+n 8
+o 12
+p 1
+q 2
+r 3
+s 4
+mmnnnoooppppppqqqqqrrrrsmmnnnoooppppppqqqqqrrrrsmmnnn
+nnnmmmmooopppppqqqqqrrrrsnnnmmmmooopppppqqqqqrrrrsnnn

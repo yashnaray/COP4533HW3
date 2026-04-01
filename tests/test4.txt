@@ -1,0 +1,13 @@
+10
+a 7
+b 3
+c 2
+d 1
+e 4
+f 5
+g 6
+h 7
+i 8
+j 9
+aaaabbbbcccccccceeeeeeeeffffffffaaaabbbbcccccccceeeee
+bbbbccccddddeeeefffggghhhiiiijjjbbbbccccddddeeeefffgg

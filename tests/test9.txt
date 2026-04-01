@@ -1,0 +1,11 @@
+8
+l 8
+m 12
+n 5
+o 3
+p 1
+q 2
+r 3
+s 4
+lllmmmnnnoooppppqqqqrrrrssslllmmmnnnoooppppqqqqrrrrssslllmmmnnnoooppppqqqqrrrrssslllmmmnnn
+mmmlllnnnpppoooqqqrrrppppssssmmmlllnnnpppoooqqqrrrppppssssmmmlllnnnpppoooqqqrrrppppssssmmm
